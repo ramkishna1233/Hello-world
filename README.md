@@ -20,15 +20,20 @@ so that, my final output should look like as below,
 
 
 My Home should have below features : 
+
 Bedroom: 
+
  	Lights brand: Phillips
  	Fan brand: Usha
  	How many bedrooms: 2.0
+  
 Kitchen: 
  	Burner Company: Prestige
  	How many sinks:2.0
+  
 Hall:
  	TV brand: Sony
+  
 Bathroom: 
  	Shower brand: Kohler
  	Sink Type:Granite Sink
